@@ -1,0 +1,134 @@
+C:\Users\nahoh\Desktop\Ejercicios Progra\Nuevo intento\Proyecto Final 2\Proyecto Final 2\bin\Debug\Proyecto Final 2.exe.config
+C:\Users\nahoh\Desktop\Ejercicios Progra\Nuevo intento\Proyecto Final 2\Proyecto Final 2\bin\Debug\Proyecto Final 2.exe
+C:\Users\nahoh\Desktop\Ejercicios Progra\Nuevo intento\Proyecto Final 2\Proyecto Final 2\bin\Debug\Proyecto Final 2.pdb
+C:\Users\nahoh\Desktop\Ejercicios Progra\Nuevo intento\Proyecto Final 2\Proyecto Final 2\obj\Debug\Proyecto Final 2.csproj.AssemblyReference.cache
+C:\Users\nahoh\Desktop\Ejercicios Progra\Nuevo intento\Proyecto Final 2\Proyecto Final 2\obj\Debug\Proyecto Final 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\nahoh\Desktop\Ejercicios Progra\Nuevo intento\Proyecto Final 2\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form1.resources
+C:\Users\nahoh\Desktop\Ejercicios Progra\Nuevo intento\Proyecto Final 2\Proyecto Final 2\obj\Debug\Proyecto_Final_2.FormCobro.resources
+C:\Users\nahoh\Desktop\Ejercicios Progra\Nuevo intento\Proyecto Final 2\Proyecto Final 2\obj\Debug\Proyecto_Final_2.FormFactura.resources
+C:\Users\nahoh\Desktop\Ejercicios Progra\Nuevo intento\Proyecto Final 2\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_Empleados.resources
+C:\Users\nahoh\Desktop\Ejercicios Progra\Nuevo intento\Proyecto Final 2\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_MenuAdministrador.resources
+C:\Users\nahoh\Desktop\Ejercicios Progra\Nuevo intento\Proyecto Final 2\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_MenuEmpleado.resources
+C:\Users\nahoh\Desktop\Ejercicios Progra\Nuevo intento\Proyecto Final 2\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_Servicios.resources
+C:\Users\nahoh\Desktop\Ejercicios Progra\Nuevo intento\Proyecto Final 2\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_Usuarios.resources
+C:\Users\nahoh\Desktop\Ejercicios Progra\Nuevo intento\Proyecto Final 2\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Properties.Resources.resources
+C:\Users\nahoh\Desktop\Ejercicios Progra\Nuevo intento\Proyecto Final 2\Proyecto Final 2\obj\Debug\Proyecto Final 2.csproj.GenerateResource.cache
+C:\Users\nahoh\Desktop\Ejercicios Progra\Nuevo intento\Proyecto Final 2\Proyecto Final 2\obj\Debug\Proyecto Final 2.csproj.CoreCompileInputs.cache
+C:\Users\nahoh\Desktop\Ejercicios Progra\Nuevo intento\Proyecto Final 2\Proyecto Final 2\obj\Debug\Proyecto Final 2.exe
+C:\Users\nahoh\Desktop\Ejercicios Progra\Nuevo intento\Proyecto Final 2\Proyecto Final 2\obj\Debug\Proyecto Final 2.pdb
+C:\Users\nahoh\Desktop\Ejercicios Progra\Nuevo intento\Proyecto Final 2\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_ClientesEmpleados.resources
+C:\Users\nahoh\Desktop\Ejercicios Progra\Nuevo intento\Proyecto Final 2\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_ServiciosEmpleado.resources
+C:\Users\nahoh\Desktop\Ejercicios Progra\Nuevo intento\Proyecto Final 2\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_Cliente_.resources
+C:\Users\Ramon\Desktop\Proyecto Actualizado\Proyecto Final 2\Proyecto Final 2\bin\Debug\Proyecto Final 2.exe.config
+C:\Users\Ramon\Desktop\Proyecto Actualizado\Proyecto Final 2\Proyecto Final 2\bin\Debug\Proyecto Final 2.exe
+C:\Users\Ramon\Desktop\Proyecto Actualizado\Proyecto Final 2\Proyecto Final 2\bin\Debug\Proyecto Final 2.pdb
+C:\Users\Ramon\Desktop\Proyecto Actualizado\Proyecto Final 2\Proyecto Final 2\obj\Debug\Proyecto Final 2.csproj.AssemblyReference.cache
+C:\Users\Ramon\Desktop\Proyecto Actualizado\Proyecto Final 2\Proyecto Final 2\obj\Debug\Proyecto Final 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ramon\Desktop\Proyecto Actualizado\Proyecto Final 2\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form1.resources
+C:\Users\Ramon\Desktop\Proyecto Actualizado\Proyecto Final 2\Proyecto Final 2\obj\Debug\Proyecto_Final_2.FormCobro.resources
+C:\Users\Ramon\Desktop\Proyecto Actualizado\Proyecto Final 2\Proyecto Final 2\obj\Debug\Proyecto_Final_2.FormFactura.resources
+C:\Users\Ramon\Desktop\Proyecto Actualizado\Proyecto Final 2\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_ClientesEmpleados.resources
+C:\Users\Ramon\Desktop\Proyecto Actualizado\Proyecto Final 2\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_Cliente_.resources
+C:\Users\Ramon\Desktop\Proyecto Actualizado\Proyecto Final 2\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_Empleados.resources
+C:\Users\Ramon\Desktop\Proyecto Actualizado\Proyecto Final 2\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_MenuAdministrador.resources
+C:\Users\Ramon\Desktop\Proyecto Actualizado\Proyecto Final 2\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_MenuEmpleado.resources
+C:\Users\Ramon\Desktop\Proyecto Actualizado\Proyecto Final 2\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_Servicios.resources
+C:\Users\Ramon\Desktop\Proyecto Actualizado\Proyecto Final 2\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_ServiciosEmpleado.resources
+C:\Users\Ramon\Desktop\Proyecto Actualizado\Proyecto Final 2\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_Usuarios.resources
+C:\Users\Ramon\Desktop\Proyecto Actualizado\Proyecto Final 2\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Properties.Resources.resources
+C:\Users\Ramon\Desktop\Proyecto Actualizado\Proyecto Final 2\Proyecto Final 2\obj\Debug\Proyecto Final 2.csproj.GenerateResource.cache
+C:\Users\Ramon\Desktop\Proyecto Actualizado\Proyecto Final 2\Proyecto Final 2\obj\Debug\Proyecto Final 2.csproj.CoreCompileInputs.cache
+C:\Users\Ramon\Desktop\Proyecto Actualizado\Proyecto Final 2\Proyecto Final 2\obj\Debug\Proyecto Final 2.exe
+C:\Users\Ramon\Desktop\Proyecto Actualizado\Proyecto Final 2\Proyecto Final 2\obj\Debug\Proyecto Final 2.pdb
+C:\Users\Ramón Zavala\Desktop\FINAL FINAL FINAL FINAL\Proyecto Final 2\bin\Debug\Proyecto Final 2.exe.config
+C:\Users\Ramón Zavala\Desktop\FINAL FINAL FINAL FINAL\Proyecto Final 2\bin\Debug\Proyecto Final 2.exe
+C:\Users\Ramón Zavala\Desktop\FINAL FINAL FINAL FINAL\Proyecto Final 2\bin\Debug\Proyecto Final 2.pdb
+C:\Users\Ramón Zavala\Desktop\FINAL FINAL FINAL FINAL\Proyecto Final 2\obj\Debug\Proyecto Final 2.csproj.AssemblyReference.cache
+C:\Users\Ramón Zavala\Desktop\FINAL FINAL FINAL FINAL\Proyecto Final 2\obj\Debug\Proyecto Final 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ramón Zavala\Desktop\FINAL FINAL FINAL FINAL\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form1.resources
+C:\Users\Ramón Zavala\Desktop\FINAL FINAL FINAL FINAL\Proyecto Final 2\obj\Debug\Proyecto_Final_2.FormCobro.resources
+C:\Users\Ramón Zavala\Desktop\FINAL FINAL FINAL FINAL\Proyecto Final 2\obj\Debug\Proyecto_Final_2.FormFactura.resources
+C:\Users\Ramón Zavala\Desktop\FINAL FINAL FINAL FINAL\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_ClientesEmpleados.resources
+C:\Users\Ramón Zavala\Desktop\FINAL FINAL FINAL FINAL\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_Cliente_.resources
+C:\Users\Ramón Zavala\Desktop\FINAL FINAL FINAL FINAL\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_Empleados.resources
+C:\Users\Ramón Zavala\Desktop\FINAL FINAL FINAL FINAL\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_MenuAdministrador.resources
+C:\Users\Ramón Zavala\Desktop\FINAL FINAL FINAL FINAL\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_MenuEmpleado.resources
+C:\Users\Ramón Zavala\Desktop\FINAL FINAL FINAL FINAL\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_Servicios.resources
+C:\Users\Ramón Zavala\Desktop\FINAL FINAL FINAL FINAL\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_ServiciosEmpleado.resources
+C:\Users\Ramón Zavala\Desktop\FINAL FINAL FINAL FINAL\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_Usuarios.resources
+C:\Users\Ramón Zavala\Desktop\FINAL FINAL FINAL FINAL\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Properties.Resources.resources
+C:\Users\Ramón Zavala\Desktop\FINAL FINAL FINAL FINAL\Proyecto Final 2\obj\Debug\Proyecto Final 2.csproj.GenerateResource.cache
+C:\Users\Ramón Zavala\Desktop\FINAL FINAL FINAL FINAL\Proyecto Final 2\obj\Debug\Proyecto Final 2.csproj.CoreCompileInputs.cache
+C:\Users\Ramón Zavala\Desktop\FINAL FINAL FINAL FINAL\Proyecto Final 2\obj\Debug\Proyecto Final 2.exe
+C:\Users\Ramón Zavala\Desktop\FINAL FINAL FINAL FINAL\Proyecto Final 2\obj\Debug\Proyecto Final 2.pdb
+C:\Users\Ramón Zavala\Desktop\FINAL FINAL FINAL FINAL\Proyecto Final 2\obj\Debug\Proyecto_Final_2.CargarEmpleado.resources
+C:\Users\Ramón Zavala\Desktop\FINAL FINAL FINAL FINAL\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_Cargar.resources
+C:\Users\Diego\Desktop\Varios\Clases\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto Final 2.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\Varios\Clases\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto Final 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Diego\Desktop\Varios\Clases\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto_Final_2.CargarEmpleado.resources
+C:\Users\Diego\Desktop\Varios\Clases\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form1.resources
+C:\Users\Diego\Desktop\Varios\Clases\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto_Final_2.FormCobro.resources
+C:\Users\Diego\Desktop\Varios\Clases\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto_Final_2.FormFactura.resources
+C:\Users\Diego\Desktop\Varios\Clases\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_Cargar.resources
+C:\Users\Diego\Desktop\Varios\Clases\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_ClientesEmpleados.resources
+C:\Users\Diego\Desktop\Varios\Clases\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_Cliente_.resources
+C:\Users\Diego\Desktop\Varios\Clases\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_Empleados.resources
+C:\Users\Diego\Desktop\Varios\Clases\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_MenuAdministrador.resources
+C:\Users\Diego\Desktop\Varios\Clases\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_MenuEmpleado.resources
+C:\Users\Diego\Desktop\Varios\Clases\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_Servicios.resources
+C:\Users\Diego\Desktop\Varios\Clases\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_ServiciosEmpleado.resources
+C:\Users\Diego\Desktop\Varios\Clases\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_Usuarios.resources
+C:\Users\Diego\Desktop\Varios\Clases\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Properties.Resources.resources
+C:\Users\Diego\Desktop\Varios\Clases\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto Final 2.csproj.GenerateResource.cache
+C:\Users\Diego\Desktop\Varios\Clases\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto Final 2.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Varios\Clases\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto Final 2.exe
+C:\Users\Diego\Desktop\Varios\Clases\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto Final 2.pdb
+C:\Users\Diego\Desktop\Varios\Clases\Proyecto Final\Proyecto Final 2\bin\Debug\Proyecto Final 2.exe.config
+C:\Users\Diego\Desktop\Varios\Clases\Proyecto Final\Proyecto Final 2\bin\Debug\Proyecto Final 2.exe
+C:\Users\Diego\Desktop\Varios\Clases\Proyecto Final\Proyecto Final 2\bin\Debug\Proyecto Final 2.pdb
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto Final\Proyecto Final 2\bin\Debug\Proyecto Final 2.exe.config
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto Final\Proyecto Final 2\bin\Debug\Proyecto Final 2.exe
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto Final\Proyecto Final 2\bin\Debug\Proyecto Final 2.pdb
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto Final 2.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto Final 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto_Final_2.CargarEmpleado.resources
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form1.resources
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto_Final_2.FormCobro.resources
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto_Final_2.FormFactura.resources
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_Cargar.resources
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_ClientesEmpleados.resources
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_Cliente_.resources
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_Empleados.resources
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_MenuAdministrador.resources
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_MenuEmpleado.resources
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_Servicios.resources
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_ServiciosEmpleado.resources
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_Usuarios.resources
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Properties.Resources.resources
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto Final 2.csproj.GenerateResource.cache
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto Final 2.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto Final 2.exe
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto Final\Proyecto Final 2\obj\Debug\Proyecto Final 2.pdb
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto\Proyecto Final 2\bin\Debug\Proyecto Final 2.exe.config
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto\Proyecto Final 2\bin\Debug\Proyecto Final 2.exe
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto\Proyecto Final 2\bin\Debug\Proyecto Final 2.pdb
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto\Proyecto Final 2\obj\Debug\Proyecto Final 2.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto\Proyecto Final 2\obj\Debug\Proyecto Final 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto\Proyecto Final 2\obj\Debug\Proyecto_Final_2.CargarEmpleado.resources
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form1.resources
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto\Proyecto Final 2\obj\Debug\Proyecto_Final_2.FormCobro.resources
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto\Proyecto Final 2\obj\Debug\Proyecto_Final_2.FormFactura.resources
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_Cargar.resources
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_ClientesEmpleados.resources
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_Cliente_.resources
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_Empleados.resources
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_MenuAdministrador.resources
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_MenuEmpleado.resources
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_Servicios.resources
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_ServiciosEmpleado.resources
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Form_Usuarios.resources
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto\Proyecto Final 2\obj\Debug\Proyecto_Final_2.Properties.Resources.resources
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto\Proyecto Final 2\obj\Debug\Proyecto Final 2.csproj.GenerateResource.cache
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto\Proyecto Final 2\obj\Debug\Proyecto Final 2.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto\Proyecto Final 2\obj\Debug\Proyecto Final 2.exe
+C:\Users\Diego\Desktop\Varios\Clases\Archivo\Periodos - 2022\II PERIODO\Programacion en Entornos de Desarrollo Visual\III PARCIAL\Proyecto\Proyecto Final 2\obj\Debug\Proyecto Final 2.pdb
